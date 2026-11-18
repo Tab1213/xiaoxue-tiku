@@ -7,9 +7,12 @@
 
 ## 在线使用
 
-部署到 GitHub Pages 后：`https://tab1213.github.io/xiaoxue-tiku/`
+| 入口 | 地址 | 说明 |
+| --- | --- | --- |
+| 主地址 | https://haizikan-quiz-unlock.app.workbuddy.host/?sharecode=X2ZI4TSXCG | 国内访问稳定，适合家长群日常使用 |
+| 备用地址 | https://tab1213.github.io/xiaoxue-tiku/ | GitHub Pages，永久免费；国内偶尔较慢 |
 
-也可以直接用 `single-file.html`：单文件、内联题库与图标，双击即可离线运行，方便拷到平板或 U 盘。
+也可以用 `single-file.html`：单文件、内联题库与图标，双击即可离线运行，方便拷到平板或 U 盘。
 
 ## 功能
 
